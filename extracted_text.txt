@@ -1,0 +1,44 @@
+TENNIS BALLERZ EVANSTON
+1623 SHERMAN AVE
+EVANSTON, IL 60201
+
+6305371914
+TENNISBALLERZ.COM
+
+26-Feb-2025 4:28:24P
+
+Transaction 014805
+Invoice #: NUSOTO5DYKT9
+
+2 Stringing Labor $52.00
+2 Premium String - Poly or $44.00
+Multi
+
+Subtotal $96.00
+IL SALES TAX 10.25% $4.51
+Total $100.51
+CREDIT CARD SALE $100.51
+VISA 8916
+
+Retain this copy for statement validation
+
+26-Feb-2025 4:28:34P
+
+$100.51 | Method: CONTACTLESS
+Visa Credit XXXXXXXXXXXXBI1 6
+Reference ID: 505700596801
+Auth ID: 066989
+
+MID: AAKKKKKKOQ BBB
+
+AID: AO000000031010
+AthNtwkNm: VISA
+
+Online: https://clover.com/p
+/OH994RBVOT3RP
+
+Clover ID: NJSOTOS5DYKT9P
+Payment OH994RBVOT3RP
+
+Clover Privacy Policy
+https://clover.com/privacy
